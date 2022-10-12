@@ -1,0 +1,21 @@
+:root {
+    --font-primary: 'Poppins', sans-serif;
+}
+
+.panda-colour {
+    background-color: rgb(228, 219, 228);
+}
+
+.panda-text {
+    font-size: 22px;
+    color: black;
+}
+
+.headline {
+    font-size: 60px;
+
+}
+
+#abu {
+    font-family: var(--font-primary);
+}
